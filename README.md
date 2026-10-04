@@ -5,6 +5,7 @@ A collection of awesome study resources for learners of Finnish
 
 - [Grammar](#grammar)
 - [Dictionaries](#dictionaries)
+- [Spoken Finnish](#spoken-finnish)
 - [Listening](#listening)
 - [Reading](#reading)
 
@@ -25,6 +26,11 @@ A collection of awesome study resources for learners of Finnish
 - [Finnish Vocabulary Test](https://suomispeak.speaklangs.com/finnish-vocabulary-test.html) - Estimate your Finnish vocabulary size and CEFR level in two minutes.
 - [Finnish Picture Dictionary](https://suomispeak.speaklangs.com/finnish-picture-dictionary.html) - Tap objects in the rooms of a Finnish home to hear the words.
 
+## Spoken Finnish
+
+- [Puhekieli vs kirjakieli](https://saunaspeak.com/puhekieli-vs-kirjakieli) - Spoken and written Finnish compared, and which forms to use or only recognise.
+- [Spoken Finnish forms](https://saunaspeak.com/puhekieli) - The common puhekieli short forms, each with the written word it stands for.
+- [Decode spoken Finnish](https://saunaspeak.com/decode) - Paste a line you heard and see the written form, with the rule behind every change.
 
 ## Listening
 
