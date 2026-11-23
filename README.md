@@ -15,6 +15,7 @@ A collection of awesome study resources for learners of Finnish
 - [Verkkokielioppi](https://fl.finnlectura.fi/verkkokielioppi/) - Finnish Online Grammar.
 - [Uusi kielemme](https://uusikielemme.fi/) - Finnish for Busy People.
 - [Finnish Cases: The Visual Guide](https://suomispeak.speaklangs.com/finnish-cases-visual-guide.html) - Interactive guide showing Finnish words through every case, with a picture and native audio for each.
+- [Finnish Time-Completion Map (Atheno)](https://atheno.app/grammar/finnish/time-completion-map) - Free visual one-page guide mapping Finnish tenses, total vs. partitive objects, and negation across 22 languages with a printable layout.
 
 ## Dictionaries
 
